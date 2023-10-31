@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644804614751",
+    "project_id": "vsc-flutter-mattbarberapp",
+    "storage_bucket": "vsc-flutter-mattbarberapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644804614751:android:37731ed993cf7ecfee99ea",
+        "android_client_info": {
+          "package_name": "com.example.mattbarber_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644804614751-erid4lvq3uo3l5m7j5budpu1iv7dfo59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Z_dCEGTiDiqPndISuSJfbJVqOV2hOSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644804614751-erid4lvq3uo3l5m7j5budpu1iv7dfo59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
